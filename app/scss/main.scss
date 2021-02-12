@@ -1,6 +1,11 @@
-*{
-     margin: 0;
-     padding: 0;
-     box-sizing: border-box;
-     background: #000;
-}
+@import "base/reset";
+@import "base/normalized";
+@import "base/typography";
+
+@import "components/buttons";
+
+@import "layout/grids";
+
+@import "pages/home.scss";
+
+@import "utilities/variables";
