@@ -1,8 +1,15 @@
 {
     "version": 3,
-    "mappings": "AAAA,AAAA,CAAC,CAAA;EACI,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,UAAU;EACtB,UAAU,EAAE,IAAI;CACpB",
+    "mappings": "ACAA,AAAA,CAAC,CAAA;EACI,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,UAAU;CAC1B",
     "sources": [
-        "../app/scss/main.scss"
+        "../app/scss/main.scss",
+        "../app/scss/base/_reset.scss",
+        "../app/scss/base/_normalized.scss",
+        "../app/scss/base/_typography.scss",
+        "../app/scss/components/_buttons.scss",
+        "../app/scss/layout/_grids.scss",
+        "../app/scss/pages/home.scss",
+        "../app/scss/utilities/_variables.scss"
     ],
     "names": [],
     "file": "main.css"
